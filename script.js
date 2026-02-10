@@ -4,3 +4,6 @@ var a = 10  //Declaration //Initialization
   
   console.log(a);
 
+let x = 30
+    x = 40
+let x = 50
